@@ -1,0 +1,3 @@
+public enum TypeEtat {
+    ETAT_FINAL, ETAT_INITIAL, ETAT_INTERMEDIAIRE;
+}
