@@ -46,7 +46,7 @@ la forme général d'une instruction est <état du départ ,caractère du transi
     Etat etatArrivee;
 # Automate 
 tous les variables qui vont contenir les composantes d'un automate 
-pour qu'on peut les manipuler plus tard ! 
+pour qu'on peut les manipuler plus tard. 
     ArrayList<Character> alphabet;
     ArrayList<Etat> ensembleEtats;
     Etat etatInitial;
@@ -54,11 +54,11 @@ pour qu'on peut les manipuler plus tard !
     ArrayList<Instruction> ensembleInstructions;
 ainsi que des méthodes de reconnaissance des mots pour la cohérance 
 des résultats.
-# AutomateRED
+ # AutomateRED
 on définit notre automate RED pour qu'il sera réduit après et on affiche le résultat 
 final en mode texte !
-Automate RED;
-# Deterministe 
+    Automate RED;
+ # Deterministe 
 Il est défini par un quintuplet A = (Q, X, , q0
 , F ),
 où :
@@ -69,7 +69,7 @@ où :
 terminaux) de l’automate.
 –  est une application de Q * X dans Q, appelée
 fonction de transition de l’automate
-#Note 
+ # Note 
 Vous pouvez l'utiliser quand vous voulez :) 
 
 
