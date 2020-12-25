@@ -89,6 +89,6 @@ terminaux) de l’automate.
 fonction de transition de l’automate
       
  # Note 
-Vous pouvez l'utiliser quand vous voulez :) 
+Vous pouvez l'utiliser comme vous voulez :) 
 
 
