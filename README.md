@@ -87,8 +87,5 @@ où :
 terminaux) de l’automate.
 –  est une application de Q * X dans Q, appelée
 fonction de transition de l’automate
-      
- # Note 
-Vous pouvez l'utiliser comme vous voulez :) 
 
 
